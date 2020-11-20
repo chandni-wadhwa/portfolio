@@ -1,0 +1,30 @@
+html{
+	margin: 20px
+}
+html {
+    border: 10px solid #002329;
+} 
+h1 {
+    color: #002329;
+}
+head {
+    color: #002329;
+}
+p {
+    color: #002329;
+	text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Times;
+}
+body{
+    background-color: #edd9ff;
+}
+.grid{
+	display: flex;
+	flex-direction: wrap;
+	justify-content:space-evenly;
+}
+.item{
+	position: relative;
+}
